@@ -1,7 +1,7 @@
-Periodontitis and the risk of all-cause and cause-specific mortality among US adults with diabetes: A population-based cohort study
+Association between periodontitis with the all-cause and cause specific mortality among the population with hyperlipidemia
 ==============================
 
-This code is the details of the manuscript "Periodontitis and the risk of all-cause and cause-specific mortality among US adults with diabetes: A population-based cohort study".
+This code is the details of the manuscript "Association between periodontitis with the all-cause and cause specific mortality among the population with hyperlipidemia".
 
 
 ## Table of Contents
